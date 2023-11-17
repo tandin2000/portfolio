@@ -54,14 +54,14 @@ const Footer = () => {
             </p>
             <p className="flex flex-row items-center my-[15px] cursor-pointer">
               <span className="text-[15px] ml-[6px]">
-                oshadaeranga919@gmail.com
+                tandinwangchen27@gmail.com
               </span>
             </p>
           </div>
         </div>
 
         <div className="mb-[20px] text-[15px] text-center">
-          &copy; Oshada eranga 2023 Inc. All rights reserved
+          &copy; Tandin Wangchen 2023 Inc. All rights reserved
         </div>
       </div>
     </div>
